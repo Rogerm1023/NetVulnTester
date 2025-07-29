@@ -1,0 +1,1 @@
+AI-enhanced port scanner is a Python-based tool that scans a target IP address for open ports using nmap, then sends the findings to an AI model for risk analysis. It generates a custom HTML report that lists the detected ports and includes AI-generated security recommendations.
